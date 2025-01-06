@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/File Share/task/bin/default/build/
+/File Share/task/build/
+/File Share/task/build/classes/java/main/
+/File Share/task/build/classes/java/test/
